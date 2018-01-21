@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font: 500 10px/1.2 "Wt-Position", "Helvetica Neue", "Nimbus Sans L", Helvetica, Arial, sans-serif;
+  background: #000;
+  color: #888; }
+
+canvas {
+  position: absolute; }
+
+#divUI {
+  text-align: right;
+  position: absolute;
+  right: 0px;
+  bottom: 240px; }
+  #divUI #divCountdown {
+    font-size: 20px; }
+
+#divAutomaton {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 240px; }
