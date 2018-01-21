@@ -30,8 +30,8 @@ let auto = automaton.auto;
 
 // ------
 
-let width = 320;
-let height = 320;
+let width = 640;
+let height = 640;
 canvas.width = width;
 canvas.height = height;
 

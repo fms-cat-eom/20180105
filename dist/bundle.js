@@ -4841,8 +4841,8 @@ var auto = automaton.auto;
 
 // ------
 
-var width = 320;
-var height = 320;
+var width = 640;
+var height = 640;
 canvas.width = width;
 canvas.height = height;
 
